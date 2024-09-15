@@ -1,6 +1,3 @@
-# Scale3DUR
-Scale3DUR: scaling data generation for 3D understanding and reasoning
-
 <div align= "center">
     <h1> Official repo for Scale3DUR 🐱‍💻</h1>
 </div>
